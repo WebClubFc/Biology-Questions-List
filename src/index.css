@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+  font-family: 'B Nazanin';
+  padding: 0;
+}
+
+body {
+  height: 100vh;
+  background: black;
+  direction: rtl;
+}
